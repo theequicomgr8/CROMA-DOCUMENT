@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3417</td></tr> 
+        <tr><th>Name</th><td>Ms. Archana Narayan</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9899681821</td> </tr>
+      <tr> <th>Email</th> <td>archana970@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Testing Engineer </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">06/28/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">36850</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">36850</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">486420</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H12, 4th Floor, 10/103, Ved Homes, Sector 3, Rajendra Nagar, Kasturba Marg, Sahibabad, Ghaziabad</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

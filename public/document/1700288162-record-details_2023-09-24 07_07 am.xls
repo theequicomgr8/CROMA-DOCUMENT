@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-9225</td></tr> 
+        <tr><th>Name</th><td>Mr. Satish Joshi</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9821495436</td> </tr>
+      <tr> <th>Email</th> <td>joshisatish824@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>17 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Quality Assurance Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">04/12/2022</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/15/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">290400</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">22000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">22000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">290400</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">290400</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">290400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>F-77A Nand Gram Ghaziabad, Uttar Pradesh- 201003</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>CC-0257</td></tr> 
+        <tr><th>Name</th><td>Mr. Pankaj kumar</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7275792600</td> </tr>
+      <tr> <th>Email</th> <td>mr.pankajkumar3501@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 8 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Croma Campus Pvt. Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Software Engineer Trainee</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">03/15/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/03/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">350000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">35000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">35000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">330000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">462000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Noida sector 66</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

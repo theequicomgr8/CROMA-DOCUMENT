@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1653</td></tr> 
+        <tr><th>Name</th><td>Mr. Gourav Prajapati</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7536087177</td> </tr>
+      <tr> <th>Email</th> <td>gkp2505@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 6 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Trainee Software Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/03/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/18/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">168000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">20000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">20000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">168000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">168000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">264000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>VILL- Nangli, Azamabad, Meerut</td> </tr>
+      <tr>    <th>Work</th>    <td>I am using HTML, CSS, JavaScript, jQuery, Bootstrap, and Material-UI to create websites. I also created responsive website using Media Query. I am using Reactjs for Single-Page Application(SPA). I have also fetched the API on the website.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

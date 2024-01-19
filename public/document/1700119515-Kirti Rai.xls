@@ -1,0 +1,34 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1632</td></tr> 
+        <tr><th>Name</th><td>Ms. Kirti Rai</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">34655653207</td> </tr>
+      <tr> <th>Email</th> <td>rai.Kirti94@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 11 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Testing Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">10/05/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/03/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">420000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">47000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">47000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">420000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">514800</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">620400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>D-27 Tara Nagar, Barwaha, Distt-Khargone, MP</td> </tr>
+      <tr>    <th>Work</th>    <td>1)Analysis of requirement Document and prepare Query log.
+2)Update the traceability Matrix.
+3)Design and execution of the Manual test cases.
+4)Perform integration, system, Re-testing and Regression testing.
+5) Defect tracking and Defect logging.
+6)Test execution as per the Test Plan.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

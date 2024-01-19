@@ -1,0 +1,39 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>Xs-1872</td></tr> 
+        <tr><th>Name</th><td>Ms. Sanju Kumari</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7061006514</td> </tr>
+      <tr> <th>Email</th> <td>sssanjurana@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 11 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>SQL Developer </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">12/13/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/18/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">216000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">18000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">18000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">216000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">216000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">237600</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>F-19, Near Shiv Mandir, Katwaria Sarai, New Delhi</td> </tr>
+      <tr>    <th>Work</th>    <td>SQL Developer duties and responsibilities
+Development of high quality database solutions 
+Develop, implement and optimize stored procedures and functions using T-SQL
+Review and interpret ongoing business report requirements
+Research required data
+Build appropriate and useful reporting deliverables
+Analyze existing SQL queries for performance improvements
+Suggest new queries
+Develop procedures and scripts for data migration
+Provide timely scheduled management reporting
+Investigate exceptions with regard to asset movements</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

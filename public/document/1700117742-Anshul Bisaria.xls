@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3298</td></tr> 
+        <tr><th>Name</th><td>Mr. Anshul Bisaria</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7068661111</td> </tr>
+      <tr> <th>Email</th> <td>anshulbisaria@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 2 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Trainee</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">07/06/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/15/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">349800</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">35700</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">35700</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">349800</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">349800</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">471240</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>G 94, Sanjay Gandhi Puram , Faizabad Road, Lucknow</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

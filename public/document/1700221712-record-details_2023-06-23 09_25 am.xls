@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2313</td></tr> 
+        <tr><th>Name</th><td>Ms. Kanchan Rai</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9340915747</td> </tr>
+      <tr> <th>Email</th> <td>raikanchan.kr@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Test Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">04/21/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">05/30/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">34000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">34000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">448800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>2022/5B Pink City Road, Near Rajul Exotica, Bilhari Jabalpur</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

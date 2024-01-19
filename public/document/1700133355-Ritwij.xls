@@ -1,0 +1,49 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-5512</td></tr> 
+        <tr><th>Name</th><td>Mr. Ritwij</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9870229609</td> </tr>
+      <tr> <th>Email</th> <td>ritwij25@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 4 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Testing Trainee</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/20/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/20/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">240000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">23000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">23000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">240000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">240000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">303600</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>U-406, Homes-121, Sector-121, Noida</td> </tr>
+      <tr>    <th>Work</th>    <td>Project Title	:	EMAR (Emailing Product)
+Domain	:	Email Marketing 
+Methodology	:	Agile
+Technology	:	Java, Maven, Selenium, TestNG
+
+Description : EMAR emailing system is an in-house high scale emailing and data analytics (Marketing Automation) system which is used for sending bulk emails using different type of targeting to achieve better lead generation. EMAR emailing has to deliver 2 crore mails daily and generate data of user activity on the same for better targeting. 
+
+ Responsibilities:  
+•	Develop and deliver regular reporting on customer and mail performance.
+•	Worked on Newsletter, Campaign, and backend server.
+•	Knowledge of email marketing setup.
+•	Performed ad-hoc performance reporting and make suggestion for improvement.
+•	Performance and action done by developer on bug reporting tool JIRA.
+•	Checking the efficiency/load on application to accept bulk customer at a time .
+•	Verifying the status of unsubscribed mail on DB.
+•	Checking the number of mail opened, clicked and landed on the main page of client.
+•	Verifying the status of hard bounce and soft bounce mail on MySQL.
+•	Verifying the bug status
+
+
+</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

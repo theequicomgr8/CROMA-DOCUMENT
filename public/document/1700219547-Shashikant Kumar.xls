@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1144</td></tr> 
+        <tr><th>Name</th><td>Mr. Shashikant Kumar</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9572899403</td> </tr>
+      <tr> <th>Email</th> <td>kumarshashikant783@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Software Tester</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/01/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">10/03/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">162000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">24000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">24000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">162000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">264000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">316800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>B1, B-262, Gali no -8, New Ashok Nagar, New Delhi</td> </tr>
+      <tr>    <th>Work</th>    <td>Manually Testing the application, finding bugs, writting test cases.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

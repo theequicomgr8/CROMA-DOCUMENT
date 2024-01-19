@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2513</td></tr> 
+        <tr><th>Name</th><td>Mr. Rahul kumar</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">6200049925</td> </tr>
+      <tr> <th>Email</th> <td>kumarrahulgupta015@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Software Test Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/10/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">03/23/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">27500</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">27500</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">290400</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">290400</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">363000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Noida sector 15</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

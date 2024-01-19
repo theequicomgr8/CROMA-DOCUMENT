@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1172</td></tr> 
+        <tr><th>Name</th><td>Mr. Beerpal Singh Bhadoria</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9818170281</td> </tr>
+      <tr> <th>Email</th> <td>beerpal.bhadoria@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Salesforce Developer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">03/30/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">10/03/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">457907</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">47785</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">47785</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">457907</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">457907</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">630762</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H.No.75, Nagla Niranjan, Deewani Farm Road, Mainpuri</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

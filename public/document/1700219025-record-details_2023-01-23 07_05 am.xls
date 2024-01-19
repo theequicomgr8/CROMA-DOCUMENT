@@ -1,0 +1,30 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2513</td></tr> 
+        <tr><th>Name</th><td>Mr. Puneet Sharma</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8178529688</td> </tr>
+      <tr> <th>Email</th> <td>Puneetsharma0902@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Test Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/04/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/23/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">400000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">35000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">35000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">396000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">462000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>House No 52, Aditya Sadan, Ashoka Road, New Delhi</td> </tr>
+      <tr>    <th>Work</th>    <td>My day to day work includes understanding the business requirement, preparing Test Cases and Test data based on Business Requirement and executes them. I am involved in different types of testing: Smoke testing, Sanity testing, Compatibility testing, Ad-hoc testing and Regression testing.
+I am also coordinating with Developers and Business Analysts to perform various types of testing throughout Software Testing Life Cycle (STLC) and Bug Life Cycle (BLC).</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PC-4716</td></tr> 
+        <tr><th>Name</th><td>Mr. Krishna Nand Yadav</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9992857033</td> </tr>
+      <tr> <th>Email</th> <td>krishna1sx4@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Promien Consultancy Services (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Planning Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">12/20/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">229500</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">22000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">22000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">229500</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">229500</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">290400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H. No. 101 Gali no. 18 Jawahar Colony Part-B NIT -3 Faridabad Haryana- 121005</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

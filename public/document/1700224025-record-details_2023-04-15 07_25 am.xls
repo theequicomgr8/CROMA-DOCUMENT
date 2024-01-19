@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1753</td></tr> 
+        <tr><th>Name</th><td>Ms. Renu Goswamy</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9599431329</td> </tr>
+      <tr> <th>Email</th> <td>renugoswamy@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>30 Year 0 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">11/02/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">04/15/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">567000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">60000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">60000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">567000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">686400</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">792000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>A-302, Chankya Appt. Sec-4, Dwarka, New Delhi </td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

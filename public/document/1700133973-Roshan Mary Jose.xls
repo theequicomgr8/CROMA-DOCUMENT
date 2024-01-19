@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1924</td></tr> 
+        <tr><th>Name</th><td>Ms. Roshan Mary Jose</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">15129944933</td> </tr>
+      <tr> <th>Email</th> <td>roshanmaryjosescribe@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>3 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Salesforce Developer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/07/2019</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">12/23/2021</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">1050000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">95840</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">95840</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">1050000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">1050000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">1265088</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>616 Atlanta Park Dr,78628,US</td> </tr>
+      <tr>    <th>Work</th>    <td>Salesforce development,Lightning web component(LWC) and Aura implementations, Apex classes,Triggers,Visual Force,SOQL ,SOSL and REST API Integrations</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

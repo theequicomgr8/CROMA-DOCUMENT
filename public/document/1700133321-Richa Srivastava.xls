@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-4416</td></tr> 
+        <tr><th>Name</th><td>Ms. Richa Srivastava</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7275912100</td> </tr>
+      <tr> <th>Email</th> <td>sririchavastava12@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>4 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Manual Tester</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">03/11/2019</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/28/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">49000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">49000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">501600</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">646800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H.No: 935 Dagar Apartment, Block U-27 DLF Phase 3, Gurugram</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

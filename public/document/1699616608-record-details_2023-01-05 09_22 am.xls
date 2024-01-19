@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-3514</td></tr> 
+        <tr><th>Name</th><td>Ms. Sanyojika Singh</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">6306603943</td> </tr>
+      <tr> <th>Email</th> <td>ssanyojika@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>5 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate SharePoint Developer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">03/12/2018</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/05/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">989000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">82416</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">80000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">858000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">990000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">1056000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>B-308, Shiva Garden Family Apartment Society-2B Vrindavan</td> </tr>
+      <tr>    <th>Work</th>    <td>In the beginning I was nothing but by years passes i have learnt a lot of thing over there now I am able to define all the details and more importantly I have gain practical experience in my company....Now i able to handle a team along with work as a Developer...</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

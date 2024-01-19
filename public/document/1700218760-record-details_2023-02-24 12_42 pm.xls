@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2412</td></tr> 
+        <tr><th>Name</th><td>Mr. Mihir Prasad</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9599898449</td> </tr>
+      <tr> <th>Email</th> <td>Mihir.prasad14@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 2 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Software Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">06/08/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">02/24/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">240000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">25000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">25000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">264000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">264000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">330000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>A 82, FF, Palladians SS Group Sec 47 Gurgaon</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

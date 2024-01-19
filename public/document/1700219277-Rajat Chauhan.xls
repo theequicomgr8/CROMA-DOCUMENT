@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2241</td></tr> 
+        <tr><th>Name</th><td>Mr. Rajat Chauhan</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8810508588</td> </tr>
+      <tr> <th>Email</th> <td>rajat4chauhan@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>MIS Executive </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/15/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">15/10/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">230000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">22400</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">22400</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">198000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">198000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">295680</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H No. A/150 Sector-11 Vijay Nagar, Ghaziabad</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

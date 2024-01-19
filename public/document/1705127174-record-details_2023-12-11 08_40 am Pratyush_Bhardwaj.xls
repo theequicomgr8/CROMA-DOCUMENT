@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-2414</td></tr> 
+        <tr><th>Name</th><td>Mr. Pratyush Bhardwaj</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8789323569</td> </tr>
+      <tr> <th>Email</th> <td>mailstopratyush@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 6 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">12/07/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/15/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">45000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">45000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">475200</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">594000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>R/o- J-502, Emaar the Palm Drive, sector 66, Golf Course Extension, Gurgaon</td> </tr>
+      <tr>    <th>Work</th>    <td>Procured new clients and business opportunities across diverse industry using various platforms.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

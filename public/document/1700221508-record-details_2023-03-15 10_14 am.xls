@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1352</td></tr> 
+        <tr><th>Name</th><td>Mr. Indra Bhushan</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8383002890</td> </tr>
+      <tr> <th>Email</th> <td>indra01.bhushan@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Test Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/06/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">03/15/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">3</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">30000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">30000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">396000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">396000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Raj Bhavan , Naya Bans Motar Gali, Noida Sector-15</td> </tr>
+      <tr>    <th>Work</th>    <td>I am working on manual testing and basic automation testing. In manual testing , I am working on writing a test cases creation in school project , hotel project and some other project. also I am executing this test cases by understanding requirements and functionality, logging and fixing a Defect, and Sending report to my leader . and Participate in group meeting calls.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

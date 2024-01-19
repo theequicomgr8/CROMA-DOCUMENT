@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PC-2262</td></tr> 
+        <tr><th>Name</th><td>Mr. Md Faisal</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7667275654</td> </tr>
+      <tr> <th>Email</th> <td>mdfaisalkhan8930@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Promien Consultancy Services (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Supervisor </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/06/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/24/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">144000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">20000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">20000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">144000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">144000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">264000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Mechanical</td> </tr>
+         <tr> <th>Address</th>  <td>Saket ,110017 New Delhi </td> </tr>
+      <tr>    <th>Work</th>    <td>I have done HVAC project execution. Execution of duct , vrv ,split,vrf ,Ahu ,paas box ,FAHU  and client management, material management or subtractor manpower manage </td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

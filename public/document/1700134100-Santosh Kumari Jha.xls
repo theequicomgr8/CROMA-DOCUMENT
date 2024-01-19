@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1742</td></tr> 
+        <tr><th>Name</th><td>Ms. Santosh Kumari Jha</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9711058777</td> </tr>
+      <tr> <th>Email</th> <td>renu.rk166@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate UI Developer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">12/14/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/25/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">32000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">32000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">330000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">422400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Gulshan Ikebana, Sector - 143, Noida</td> </tr>
+      <tr>    <th>Work</th>    <td>I am good in HTML, CSS, Bootstrap, Tailwind CSS. I have basic knowledge of JavaScript, ReactJS, React Native, NextJS and I have worked on the API integration as well.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

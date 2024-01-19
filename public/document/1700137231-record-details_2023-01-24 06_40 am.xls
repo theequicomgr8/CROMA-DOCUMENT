@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3412</td></tr> 
+        <tr><th>Name</th><td>Mr. Kumar Ujjwal</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7064838946</td> </tr>
+      <tr> <th>Email</th> <td>k.ujjwal4010@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 8 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Analyst </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">03/15/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/23/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">360000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">38000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">38000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">396000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">501600</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>House No. 28, East Patel Nagar, Road No. 8, Patna </td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

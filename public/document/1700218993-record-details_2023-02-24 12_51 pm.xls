@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2433</td></tr> 
+        <tr><th>Name</th><td>Mr. Pranay Singh</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9821830696</td> </tr>
+      <tr> <th>Email</th> <td>pranaysingh225@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 11 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>AWS Solution Architect</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/10/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">02/24/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">3</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">25000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">25000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">264000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">264000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">330000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Pt No 28, Haweliya Near Shiv Mandir Jhunsi Prayagraj</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

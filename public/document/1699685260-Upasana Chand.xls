@@ -1,0 +1,36 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-1532</td></tr> 
+        <tr><th>Name</th><td>Ms. Upasana Chand</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9690526640</td> </tr>
+      <tr> <th>Email</th> <td>upasanachand1@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 6 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Testing Trainee</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">02/01/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/02/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">180000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">21000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">21000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">180000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">180000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">277200</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Sector 15 Noida</td> </tr>
+      <tr>    <th>Work</th>    <td>*Understanding the Product using Software Requirement Specification and the Prototype
+Model.
+*Preparing test cases using SRS and executed them.
+* Requirement Analysis in co-ordination with development.
+* Performing Regression Testing in each release
+* Providing Technical and functional information.
+* Maintaining QA process document.
+* Maintaining Project feature list document</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

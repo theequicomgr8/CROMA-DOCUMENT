@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-7532</td></tr> 
+        <tr><th>Name</th><td>Ms. Aprajita Dubey</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9871149166</td> </tr>
+      <tr> <th>Email</th> <td>aprajitadubey1999@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate Consultant</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">10/04/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">422400</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">37000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">37000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">422400</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">455400</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">488400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Laxmi Height Society, Shahberi, Greater Noida West Sector 4, Uttar Pradesh 201009</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

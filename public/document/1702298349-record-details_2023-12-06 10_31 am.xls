@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2710</td></tr> 
+        <tr><th>Name</th><td>Mr. Vansh</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7838116557</td> </tr>
+      <tr> <th>Email</th> <td>vanshattrisharma01@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">08/17/2022</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">350460</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">30000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">30000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">350460</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">350460</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">396000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>A-28 Pandav Nagar ,Ganesh Nagar, New Delhi-110092</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

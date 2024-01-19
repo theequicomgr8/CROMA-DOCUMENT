@@ -1,0 +1,36 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1587</td></tr> 
+        <tr><th>Name</th><td>Mr. Joy Rahul</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9990677126</td> </tr>
+      <tr> <th>Email</th> <td>joyrahul100@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/25/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/30/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">3.5</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">31700.0</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">31700</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">350000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">350000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">418440</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>377, Christian Nagar Ghaziabad</td> </tr>
+      <tr>    <th>Work</th>    <td>Create data dashboard, graphs and visualization.
+Filter and clean data before transform or visualizations.
+Analyzing results and reporting the results back to the relevant members of the business.
+Identifying patterns and trends in data sets.
+Develop recodes management processes and policies in SQL Server.
+Collecting and interpreting data by Advance Excel.
+Monitor and audit data quality.
+Develop and support reporting processes.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

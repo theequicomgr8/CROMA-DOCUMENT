@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1439</td></tr> 
+        <tr><th>Name</th><td>Mr. Sayali Raviraj Raibagkar</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8851566571</td> </tr>
+      <tr> <th>Email</th> <td>sayali.raibagkar1@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Salesforce Trainee</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/24/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">264000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">35000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">35000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">264000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">369600</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">462000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Flat No. 3, Pasaydan Sahnivas Apartment, Shantisagar Colony, Sangli </td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

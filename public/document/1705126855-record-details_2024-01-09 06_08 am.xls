@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2941</td></tr> 
+        <tr><th>Name</th><td>Ms. Garima Sinha</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7800888828</td> </tr>
+      <tr> <th>Email</th> <td>garimasinha2611@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>IT Consultant</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">10/12/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">12/15/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">871200</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">75000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">75000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">871200</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">871200</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">990000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Flat No 13 Navjeevan Apartment Dashrathpuri New Delhi -110045</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

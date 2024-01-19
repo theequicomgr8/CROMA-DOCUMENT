@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1325</td></tr> 
+        <tr><th>Name</th><td>Mr. Manish Sharma</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7906910094</td> </tr>
+      <tr> <th>Email</th> <td>shmanish03@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Solution Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">08/02/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/08/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">450000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">34000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">34000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">380000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">380000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">448800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>802 railway road maliwada chawk Pilkhuwa, 245304</td> </tr>
+      <tr>    <th>Work</th>    <td>presales activities</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

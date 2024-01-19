@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1472</td></tr> 
+        <tr><th>Name</th><td>Mr. Siddharth Vinit</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9958252169</td> </tr>
+      <tr> <th>Email</th> <td>siddharth.vinit57@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 3 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>System Administrator</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/01/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/30/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">420000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">35000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">35000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">420000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">420000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">462000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Ward No.-09, Naya Bazar, Saharsa</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

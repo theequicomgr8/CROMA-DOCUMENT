@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3513</td></tr> 
+        <tr><th>Name</th><td>Mr. Bharat Saini</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9306292223</td> </tr>
+      <tr> <th>Email</th> <td>bharat60000@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>3 Year 3 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Sr. Software Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/06/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">02/11/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">1518000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">145000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">145000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">1518000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">1716000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">1914000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>C UG 3, Ashcon Society, Palam Village, Delhi</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

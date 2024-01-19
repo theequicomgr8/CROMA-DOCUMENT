@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-9482</td></tr> 
+        <tr><th>Name</th><td>Ms. Shilpi Priya</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7903995130</td> </tr>
+      <tr> <th>Email</th> <td>pshilpi013@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>12 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Cloud Infrastructure Engineer </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">10/10/2022</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">10/20/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">349800</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">26500</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">26500</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">349800</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">349800</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">349800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>C-31, Sector 14, Noida, Uttar Pradesh - 201301</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

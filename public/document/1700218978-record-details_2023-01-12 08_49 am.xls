@@ -1,0 +1,31 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2430</td></tr> 
+        <tr><th>Name</th><td>Mr. Prakhar Verma</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8299631313</td> </tr>
+      <tr> <th>Email</th> <td>prakharverma022@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/18/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/12/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">400000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">39</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">39000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">409200</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">409200</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">514800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>285/1 Rail Bazar, Sircar Road, Cantt, Kanpur Nagar, UP</td> </tr>
+      <tr>    <th>Work</th>    <td>Motivated and results-driven Analyst with proven track record of designing dashboards, collecting, interpreting and analyzing data reports. Proven ability to identify business needs and develop valuable solutions to drive accuracy and 
+process efficiency. Drive business effectiveness through making recommendations based on data findings.
+</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

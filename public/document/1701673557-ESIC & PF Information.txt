@@ -1,0 +1,15 @@
+ESIC:
+
+1. If Salary is Less Than 21500.00 Than ESIC is Applicable.
+2. Total Exempted Limit is 09 Employee Including Directors, Partners are not Included in this Count.
+3. If ESIC Number is Allocated Than Limit of Exemption is ZERO.
+
+PF:
+
+1. If Basic Salary is Equal/Less Than 15000 Than PF is Applicable.
+2. If Basic Salary is Greater Than 15000 Than PF is Not Applicable and In Past No PF id deducted of that Employee. Need to Sign Form-11
+3. Total Exempted Limit is 19 Employee Including Directors.
+
+
+
+It is necessary that employees' drawing less than Rs 15,000 per month, to become members of the EPF. As per the guidelines in EPF, employee, whose 'basic pay' is more than Rs. 15,000 per month, at the time of joining, is not required to make PF contributions.

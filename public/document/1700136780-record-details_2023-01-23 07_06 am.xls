@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2614</td></tr> 
+        <tr><th>Name</th><td>Mr. Ayush Srivastava</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9807587067</td> </tr>
+      <tr> <th>Email</th> <td>ayushsrivastavacom.2010@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/11/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/23/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">440000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">37000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">37000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">440000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">440000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">488400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>P-110,Tower -N, 14th Avenue Gaur City-2, Noida</td> </tr>
+      <tr>    <th>Work</th>    <td>WAPT, NPT, APT, Manual Testing, Automated Testing, Vulnerability Assessment/ Penetration Testing of OWASP-Top10</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

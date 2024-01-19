@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-8825</td></tr> 
+        <tr><th>Name</th><td>Mr. Deepak Kumar Bhardwaj</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7531919171</td> </tr>
+      <tr> <th>Email</th> <td>deepakbhardwaj4512@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>16 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Junior Salesforce Administrator</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/02/2022</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">250800</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">22000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">22000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">250800</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">250800</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">290400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>House No. 325 Adarsh Nagar , Faridabad, Haryana - 121004</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

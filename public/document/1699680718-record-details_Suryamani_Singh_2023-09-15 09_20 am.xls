@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-8712</td></tr> 
+        <tr><th>Name</th><td>Ms. Suryamani Singh</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9871500695</td> </tr>
+      <tr> <th>Email</th> <td>singhsuryamani5@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>3 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/27/2019</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/15/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">264000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">34500</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">34500</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">264000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">398640</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">455400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>SC-139, Shastri Nagar, Ghaziabad-201002</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

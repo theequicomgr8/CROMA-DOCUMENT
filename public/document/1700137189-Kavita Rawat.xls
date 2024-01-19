@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-5129</td></tr> 
+        <tr><th>Name</th><td>Ms. Kavita Rawat</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9891388906</td> </tr>
+      <tr> <th>Email</th> <td>kaviarc07@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Testing Trainee</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/03/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">09/15/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">250000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">26500</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">26500</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">250000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">250800</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">349800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Tower A, 1206A, Saviour Greenarch, Greater Noida</td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

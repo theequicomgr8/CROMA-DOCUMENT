@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2421</td></tr> 
+        <tr><th>Name</th><td>Ms. Leena</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7027015066</td> </tr>
+      <tr> <th>Email</th> <td>savishrm92@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/15/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">02/24/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">420000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">60000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">50000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">462000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">554400</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">660000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>350/17 Opp MLA Dhoora Ram Shiv Nagar Fatehabad, Haryana </td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

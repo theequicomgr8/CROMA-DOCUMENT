@@ -1,0 +1,47 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>Xs-1843</td></tr> 
+        <tr><th>Name</th><td>Ms. Harnitika Kaur</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7009337361</td> </tr>
+      <tr> <th>Email</th> <td>hk.india63@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 4 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate System Administrator</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">09/07/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/18/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">285000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">32032</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">32000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">285000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">422400</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>6863/3/1 Street No-7 Mohar Singh Nagar, Ludhiana</td> </tr>
+      <tr>    <th>Work</th>    <td>Working as a System Administrator
+Roles and Responsibilities-:
+Building new VM with client approved Welcome Pack
+	Network configuration
+	User Management
+	ACL modifications (File/Directory permissions)
+	Memory management- swap space creation/addition
+	SSH key generation and configuring SFTP
+	File sharing and configuration with remote hosts using FTP, SFTP, NFS
+	Job scheduling using CRON
+	Profile tuning
+	LVM, autofs
+	Kernel tuning, Server patching, OS upgradation
+	Software package administration- RPM and YUM
+	Server performance monitoring (CPU/Memory/Storage)
+	File system housekeeping, process monitoring
+	RSYNC backup
+	Intermediate knowledge of Ansible Automation
+</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

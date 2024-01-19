@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-1832</td></tr> 
+        <tr><th>Name</th><td>Ms. Shivani Ranjan</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9560994349</td> </tr>
+      <tr> <th>Email</th> <td>ranjanshivani87@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Junior Quality Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">06/14/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">10/18/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">277200</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">21000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">21000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">198000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">198000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">277200</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>B2-901, 8 Floor, SCC Heights, Raj Nagar Extension, Ghaziabad</td> </tr>
+      <tr>    <th>Work</th>    <td>Software tester having hands on experience in Manual Testing and Agile methodology.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

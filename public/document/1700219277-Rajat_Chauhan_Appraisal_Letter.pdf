@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Student Company</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">   
+ 
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v6.0.0-beta3/css/all.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+       </head>
+	<style>
+		.valid_error{
+		   color:red;
+		   font-size: 12px;
+		}
+	</style>
+
+<body class="bg-new">
+  <div class="myfrom-center2">
+    <div class="container">
+      <div class="row d-flex justify-content-center">
+        <div class="col-lg-12">
+          <div class="form-bg-section3">
+            <!-- <h2 class="mb-3">Data  Table </h2> -->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+              <a class="navbar-brand" href="#"><img src="img/logo.png" alt="logo"></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="dashboard.php">Dashboard <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="manage_companies.php">Manage Company</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="record.php">Record</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#" data-toggle="modal" data-target="#passwordmodal">Change Password</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="logout.php">Logout</a>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+            
+                <!-- CHange Password Modal -->
+              <div class="modal fade" id="passwordmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel">Change Password</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+						<form method="post" class="changePass">
+							<label for="">Old Password*</label>
+							<input type="Password" name="currentPassword" class="form-control" placeholder="Enter Old Password">
+							<label for="">New Password*</label>
+							<input type="Password" name="newPassword" class="form-control" placeholder="Enter New  Password">
+							<label for="">Confirm Password*</label>
+							<input type="Password" name="confirmPassword" class="form-control" placeholder="Enter Confirm Password">
+							<!--<div class="modal-footer">
+								<input type="hidden" name="changepwd" value="changePass"/>			
+								<button type="submit" class="btn btn-primary">Save changes</button>
+							</div>-->
+							<div class="modal-footer">
+								<input type="hidden" name="password" value="changePass"/>
+								<button type="submit" class="btn btn-primary">Save changes</button>
+							</div>
+                       </form>
+                    </div>   
+                  </div>
+                </div>
+              </div>
+               <!-- Change Password End  -->
+ 
+	        <div class="myfrom-center">
+            <div class="container form-bg-section">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-lg-12">           
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-9">
+                        <form  method="post" action="" autocomplete="off">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="email">Company Name</label>
+                                        <input type="text" class="form-control my-from" name="companies" value="Xapotech Systems (P) Ltd." readonly>
+                                        <i class="fal fa-building"></i>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Candidate Name</label>
+                                        <input type="text" class="form-control my-from" name="emp_name" value="Rajat Chauhan" readonly>
+                                        <i class="fal fa-user"></i>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Title</label>
+                                        <input type="text" class="form-control my-from" name="gender" value="Mr." readonly>
+                                        <i class="fal fa-user"></i>
+                                    </div>
+                                </div>
+								<!--<div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Gender</label>
+										<select class="form-control select-from" id="" name="gender" readonly>
+                                        <!--<option value=""></option>-->
+                                           <!-- <option value="">Select Gender</option>
+                                            <option value="Mr."  selected>Mr.</option>
+                                            <option value="Ms." >Ms.</option>     
+                                        </select>	
+                                    </div>
+                                </div>--> 
+								 <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Address</label>
+                                        <input type="text" class="form-control my-from" name="address" value="H No. A/150 Sector-11 Vijay Nagar, Ghaziabad" readonly>
+                                        <!--<i class="fal fa-graduation-cap"></i>-->
+                                    </div>
+                                </div>
+                                 <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Contact no.</label>
+                                        <input type="text" class="form-control my-from" name="emp_phone" value="8810508588" placeholder="Eneter Phone no." readonly>
+                                        <!--<i class="fal fa-graduation-cap"></i>-->
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Designation</label>
+                                        <input type="text" class="form-control my-from" name="designation" value="MIS Executive " readonly>
+                                        <i class="fal fa-graduation-cap"></i>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Date Of Joining</label>
+                                        <input type="datetime" class="form-control my-from" id="datepicker" name="doj" value="09/15/2020" readonly>
+                                        <i class="fal fa-calendar-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Date Of Relieving</label>
+                                        <input type="datetime" class="form-control my-from" id="datepicker2" name="dor" value="15/10/2022" readonly>
+                                        <i class="fal fa-calendar-alt"></i>
+                                        
+                                    </div>
+                                </div>
+                             
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Employee Id</label>
+                                        <input type="datetime" class="form-control my-from" name="emp_id" value="XS-2241" readonly>
+                                        <i class="fal fa-id-badge"></i>
+                                    </div>
+                                </div>
+                               
+                                 <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Pay Mode</label>
+                                        <input type="text" class="form-control my-from" name="paymode" value="Cheque" readonly>
+                                        <i class="fal fa-user"></i>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Net Pay</label>
+                                        <input type="text" class="form-control my-from" name="netpay" value="22400" readonly>
+                                        <i class="fal fa-money-bill-alt"></i>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <label for="pwd">Department</label>
+                                        <input type="text" class="form-control my-from" name="emp_department" value="Technology" readonly>
+                                        <i class="fal fa-user-tag"></i>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="col-lg-12 mt-3">
+                                    <h5  class="ap-details">Appraisal Details</h5>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="appraisal-details">
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-3">
+                                                <div class="form-group">
+                                                    <label for="pwd">CTC 1</label>
+                                                    <input type="text" class="form-control my-from" id="ctc"  name="ctc1" value="198000" readonly>
+                                                    <i class="fal fa-money-bill"></i>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3">
+                                                <div class="form-group">
+                                                    <label for="pwd">CTC 2</label>
+                                                    <input type="text" class="form-control my-from"   id="ctc2" name="ctc2" value="198000" readonly>
+                                                    <i class="fal fa-money-bill"></i>
+                                                </div>
+                                            </div> 
+											
+											<div class="col-lg-3">
+                                                <div class="form-group">
+                                                    <label for="pwd">CTC 3</label>
+                                                    <input type="text" class="form-control my-from" id="newctc" name="newctc" value="295680" readonly>
+                                                    <i class="fal fa-money-bill"></i>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3">
+                                                <div class="form-group">
+                                                    <label for="pwd">New Designation</label>
+                                                    <input type="text" class="form-control my-from"  name="newdesignation" value="MIS Executive " readonly>
+                                                    <i class="fal fa-graduation-cap"></i>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3">
+                                                <div class="form-group">
+                                                    <label for="pwd">Appraisal Date</label>
+                                                    <input type="datetime" class="form-control my-from" id="datepicker3" name="appraisaldate" value="04/01/2022" readonly>
+                                                    <i class="fal fa-calendar-alt"></i>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="col-lg-3">
+                                                <div class="form-group">
+                                                    <label for="pwd">Salary Slips Year</label>
+													 <select class="form-control select-from" id="" name="slipsyear">
+                                                        <!--<option value="">Year</option>-->
+                                                        <option value="2022">2022</option>
+													
+																												<option value="2000">2000</option>	  	
+																												<option value="2001">2001</option>	  	
+																												<option value="2002">2002</option>	  	
+																												<option value="2003">2003</option>	  	
+																												<option value="2004">2004</option>	  	
+																												<option value="2005">2005</option>	  	
+																												<option value="2006">2006</option>	  	
+																												<option value="2007">2007</option>	  	
+																												<option value="2008">2008</option>	  	
+																												<option value="2009">2009</option>	  	
+																												<option value="2010">2010</option>	  	
+																												<option value="2011">2011</option>	  	
+																												<option value="2012">2012</option>	  	
+																												<option value="2013">2013</option>	  	
+																												<option value="2014">2014</option>	  	
+																												<option value="2015">2015</option>	  	
+																												<option value="2016">2016</option>	  	
+																												<option value="2017">2017</option>	  	
+																												<option value="2018">2018</option>	  	
+																												<option value="2019">2019</option>	  	
+																												<option value="2020">2020</option>	  	
+																												<option value="2021">2021</option>	  	
+																												<option value="2022">2022</option>	  	
+																											</select>
+                                                    <!--<select class="form-control select-from" id="">
+                                                        <option value="">Year</option>
+                                                        <option>2000</option>
+                                                        <option>2001</option>
+                                                        <option>2002</option>
+                                                        <option>2003</option>
+                                                        <option>2004</option>
+                                                        <option>2005</option>
+                                                        <option>2006</option>
+                                                        <option>2007</option>
+                                                        <option>2008</option>
+                                                        <option>2009</option>
+                                                        <option>2010</option>
+                                                        <option>2011</option>
+                                                        <option>2012</option>
+                                                        <option>2013</option>
+                                                        <option>2014</option>
+                                                        <option>2015</option>
+                                                        <option>2016</option>
+                                                        <option>2017</option>
+                                                        <option>2018</option>
+                                                        <option>2019</option>
+                                                        <option>2020</option>
+                                                        <option>2021</option>
+                                                        
+                                                    </select>-->
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-9">
+                                                <div class="mt-10">
+                                                    <ul class="list-calender">
+                                                        
+                                                        
+                                                                                                            
+                                                   <li><input type="checkbox" value="January"  name="month_chk[]" />Jan</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="February"  name="month_chk[]" />Feb</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="March"  name="month_chk[]" />Mar</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="April"  name="month_chk[]" />Apr</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="May"  name="month_chk[]" />May</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="June"  name="month_chk[]" />Jun</li>
+                                                   
+                                                                                                           
+                                                       <li><input type="checkbox" value="July"  checked name="month_chk[]" />Jul</li>
+                                                                                                           
+                                                       <li><input type="checkbox" value="August"  checked name="month_chk[]" />Aug</li>
+                                                                                                           
+                                                       <li><input type="checkbox" value="September"  checked name="month_chk[]" />Sep</li>
+                                                                                                      
+                                                   <li><input type="checkbox" value="October"  name="month_chk[]" />Oct</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="November"  name="month_chk[]" />Nov</li>
+                                                   
+                                                                                                      
+                                                   <li><input type="checkbox" value="December"  name="month_chk[]" />Dec</li>
+                                                   
+                                                                                                            
+                                                         
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>  
+                  
+                        <div class="download-btn-list mt-3">
+                            
+                                <div class="download-section mt-3">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-lg-6 text-center">
+                                                <input type="radio" name="letterhead" value="letterhead">
+                                                <p class="btn-blue">Download Letterhead</p>
+                                            </div>
+                                            <div class="col-lg-6 text-center">
+                                                <input type="radio" name="letterhead" value="plain">
+                                                <p class=" btn-blue">Download Plain Paper</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </br>    
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="letter-download">
+                                        <!--<input type="submit" name="b1" value="Appointment Letter" class="frmbuttn">--> 
+                                        <button   name="b1" value="Appointment Letter" class="green btn-letter frmbuttn">Appointment Letter</button>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="letter-download">
+                                        <!--<input type="submit" name="b1" value="Compensation Letter" class="frmbuttn">-->
+                                        <button name="b1" value="Compensation Letter" class="green btn-letter frmbuttn">Appraisal Letter</button>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="letter-download">
+                                        <!--<input type="submit" name="b1" value="Experience Letter" class="frmbuttn">-->
+                                        <button name="b1" value="Experience Letter" class="green btn-letter frmbuttn">Experience Letter</button>
+                                    </div>
+                                </div>                                <div class="col-lg-3">
+                                    <div class="letter-download">
+                                        <!--<input type="submit" name="b1" value="Salary Slip" class="frmbuttn">-->
+                                        <button  name="b1" value="Salary Slip" class="green btn-letter frmbuttn">Salary Slips</button>
+                                    </div>
+                                </div>
+                                                                
+                            </div>
+                          
+                            
+                        </div>
+						
+				<div style="clear:both;"></div>
+				<input type="hidden" name="comp_colleague" id="comp_colleague" value="">
+				<input type="hidden" name="about_comp" id="about_comp" value="">
+				<input type="hidden" name="city_postalcode" id="city_postalcode" value="">
+				<input type="hidden" name="state_country" id="state_country" value="">
+				<input type="hidden" name="job_title" id="job_title" value="">
+				<input type="hidden" name="department" id="department" value="">
+				<input type="hidden" name="comp_address2" id="comp_address2" value="">
+
+				<input type="hidden" name="hra_ctc2" id="hra_ctc2" value="">
+				<input type="hidden" name="spec_allowance_ctc2" id="spec_allowance_ctc2" value="">
+				<input type="hidden" name="lta_ctc2" id="lta_ctc2" value="">
+				<input type="hidden" name="cumm_exp_ctc2" id="cumm_exp_ctc2" value="">
+				<input type="hidden" name="medi_reiub_ctc2" id="medi_reiub_ctc2" value="">
+				<input type="hidden" name="basic_pay_ctc2" id="basic_pay_ctc2" value="">
+				<input type="hidden" name="doalr" id="datepicker25" value="">	
+			</form>
+		</div>  
+        <div class="col-lg-3">
+			<div class="right-img">
+				<img src="img/right-bg.png" alt="" class="img-fluid">
+            </div>
+        </div>
+	</div>
+</div>
+</div>
+        <!-- JS here -->
+         
+ 		 <div id="successmessage" class="modal fade" role="dialog" data-backdrop="static"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-body"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+</button> <div class="imgclass"></div><div class="successhtml"></div> <div class="failedhtml"></div>
+<div class="nit-form">
+</div>
+<button type="submit" class="closeok btn btn-success" style="width:40%;margin-left: 30%;">Ok</button>
+</div>
+
+</div></div></div>	   
+	
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+<script src="js/main.js"></script>
+
+  <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" ></script>-->
+
+  
+	
+    <div class="modal fade" id="messagemodel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    <div class="modal-header">
+    <h5 class="modal-title" id="exampleModalLabel"></h5>
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="imgclass"></div>
+    <div class="successhtml"></div>
+     <div class="failedhtml"></div>
+    </div>
+    
+    </div>
+    </div>
+    </div>
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/62b6ae187b967b1179966dbd/1g6cpg44c';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<script>
+$(document).ready(function () {
+  $(".changePass").submit(function(e){ 
+	e.preventDefault();	 
+	 
+	if(!$.fn.passvalidate(this)){
+		return false;	
+	}   
+	var data=$(this).serialize();
+	  //var data=new FormData(this);
+		$.ajax({
+			url: "/admin/action.php",
+			data: data,
+			type:"POST",	
+			//cache: false,
+			//contentType: false,
+			//processData: false,			
+			success:function(response){
+			    var obj = JSON.parse(response);
+				if(obj.status==true){
+                $("#successmessage").modal('show');
+                $("#exampleModal").modal();
+                $('.imgclass').html('<img src="./img/Thanks_Reaching_Us.jpg" style="width: 100%;text-align: center;margin: auto;display: block;">');					
+                $('.successhtml').html("<p class='text-center' style='font-weight: 600;'>Successfully Password changed.</p>");
+                $('#successmessage').modal({backdrop:"static",keyboard:false});
+				$this.find('.valid_error').remove(); 					
+				}else{
+				   
+				$("#successmessage").modal('show');
+				$('.imgclass').html('<img src="./img/message_alert.png" style="width: 50%;text-align: center;margin: auto;display: block;">');			
+				$('.failedhtml').html("<p class='text-center' style='color:red'>"+obj.msg+"</p>");	
+				$('#successmessage').modal({backdrop:"static",keyboard:false});
+				}
+			}
+		});
+	});
+
+ 
+$.fn.passvalidate=function(t){
+	$(".valid_error").remove(); 
+	 
+	var status = 0;	 
+	if($(t).find("input[name=\"currentPassword\"]").length==1 && $(t).find("input[name=\"currentPassword\"]").val()==""){
+		$(t).find("input[name=\"currentPassword\"]").after("<div class='valid_error'>Old Password is mandatory.</div>")
+		status = 1;
+	}
+	 if($(t).find("input[name=\"newPassword\"]").length==1 && $(t).find("input[name=\"newPassword\"]").val()==""){
+		$(t).find("input[name=\"newPassword\"]").after("<div class='valid_error'>New Password is mandatory.</div>")
+		status = 1;
+	}
+	 if($(t).find("input[name=\"confirmPassword\"]").length==1 && $(t).find("input[name=\"confirmPassword\"]").val()==""){
+		$(t).find("input[name=\"confirmPassword\"]").after("<div class='valid_error'>Repeat Password is mandatory.</div>")
+		status = 1;
+	}
+	
+	if(status){
+		return false;
+	}
+	return true;
+}	
+});
+
+
+$(".closeok").click(function(){
+location.reload(true);
+});
+</script>		
+		</body>
+		</html>

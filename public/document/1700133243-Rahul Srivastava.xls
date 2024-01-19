@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2315</td></tr> 
+        <tr><th>Name</th><td>Mr. Rahul Srivastava</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9651706324</td> </tr>
+      <tr> <th>Email</th> <td>rahulsrivastava843@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 11 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>QA Engineer </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">10/01/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/15/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">3.5 Lac</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">26500</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">26500</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">264000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">296000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">349800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Tower D, Flat No 351, Galaxy North Avenue 2, Gaur City 2, Greater Noida </td> </tr>
+      <tr>    <th>Work</th>    <td>A QA Tester is a professional who tests the functionality and usability of new or existing software before it goes live to ensure it is bug-free. They work closely with developers, providing them feedback on what needs improvement in order to produce top-quality programs that meet customer expectations.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

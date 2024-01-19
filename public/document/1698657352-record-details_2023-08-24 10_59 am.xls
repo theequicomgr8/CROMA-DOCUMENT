@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-5384</td></tr> 
+        <tr><th>Name</th><td>Mr. Kanhaiya</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7690076658</td> </tr>
+      <tr> <th>Email</th> <td>Kanhaiyabtp20102002@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>36 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Linux Administrator</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">06/01/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">310000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">29600</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">29600</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">310000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">343200</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">390720</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Village Ghushyari, Dist. Bharatpur, Rajasthan - 321001</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

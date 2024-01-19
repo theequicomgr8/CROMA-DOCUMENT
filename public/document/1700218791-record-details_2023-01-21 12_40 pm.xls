@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2417</td></tr> 
+        <tr><th>Name</th><td>Ms. Mini Verma</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9720036036</td> </tr>
+      <tr> <th>Email</th> <td>miniverma850@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 2 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate Consultant- HCM</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/04/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/21/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">5 LPA</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">41,666</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">41500</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">435600</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">435600</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">547800</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>718/8, Master Colony, Street no-5, Brahampuri,Meerut </td> </tr>
+      <tr>    <th>Work</th>    <td></td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

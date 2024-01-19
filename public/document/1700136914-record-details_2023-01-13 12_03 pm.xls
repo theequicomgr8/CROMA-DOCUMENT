@@ -1,0 +1,41 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3713</td></tr> 
+        <tr><th>Name</th><td>Mr. Goutam Kumar</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8603672206</td> </tr>
+      <tr> <th>Email</th> <td>goutam.mg23@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>1 Year 4 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Java Developer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">07/10/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">11/17/2021</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">260016</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">21668</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">20000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">264000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">264000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">264000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H No-98,Village-Budhidih, Dugda,Jharkhand</td> </tr>
+      <tr>    <th>Work</th>    <td>Project Title :Protrace 10.1
+Technologies :Java , Spring boot ,Hibernate JPA ,WebServices(Restful)
+Tools : STS ,Postman ,MySql Workbench etc.
+Description :Protrace 10.1 is the combination of practices, strategies and technologies that companies  use to manage and analyze customer interactions and data throughout the customer lifecycle. The goal is to improve customer service relationships and assist in customer retention and drive sales growth.
+
+Responsibilities	
+•      Writing controller, Entity and Service layer java classes in Spring project.
+•	Configuring application.properties file.
+•	Developing views using JSP & JSTL tags.
+•	Testing web services using postman.
+•	Implementing web services using restful Webervices.
+•	Development, bug fixing, issues, requirement understanding.
+</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

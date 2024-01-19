@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3517</td></tr> 
+        <tr><th>Name</th><td>Mr. Animesh Shrotria</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7055206760</td> </tr>
+      <tr> <th>Email</th> <td>animesh.shrotria01@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Trainee Testing Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/06/2021</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/23/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">300000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">420000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">420000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">300000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">462000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">5544000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>235, Utsav Part II, Maha Nagar, Bareilly</td> </tr>
+      <tr>    <th>Work</th>    <td>Working on software testing with the help of manual testing techniques</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

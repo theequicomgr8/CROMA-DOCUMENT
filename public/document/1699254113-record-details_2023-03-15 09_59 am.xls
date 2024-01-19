@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-3416</td></tr> 
+        <tr><th>Name</th><td>Mr. Akash Sharma</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9760359916</td> </tr>
+      <tr> <th>Email</th> <td>akash164952sharma@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>3 Year 11 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/02/2019</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">03/13/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">430000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">43000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">43000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">430000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">501600</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">567600</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>130/73-A , Shiv Shakti Nagar, Meerut</td> </tr>
+      <tr>    <th>Work</th>    <td>Data Analyst working in banking domain on project related to credit card analysis, card swipe and repayment.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

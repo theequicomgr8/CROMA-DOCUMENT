@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-2541</td></tr> 
+        <tr><th>Name</th><td>Ms. Simran Sharma</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8619892822</td> </tr>
+      <tr> <th>Email</th> <td>sharmasimran598@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>4 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>ABAP Consultant </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">12/24/2018</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">01/21/2023</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">3lpa</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">37800</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">37800</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">300000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">396000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">498960</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Keshav Niwas, Indra market, Kota Rajasthan </td> </tr>
+      <tr>    <th>Work</th>    <td>Develop odata services for sales and order, all the data dictionary objects, development of smatforms and abode forms, enhancement of badi, enhancement of screen va01 and mm01.</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

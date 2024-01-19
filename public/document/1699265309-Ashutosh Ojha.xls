@@ -1,0 +1,31 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PC-1152</td></tr> 
+        <tr><th>Name</th><td>Mr. Ashutosh Ojha</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7052953570</td> </tr>
+      <tr> <th>Email</th> <td>aashuojha2@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>2 Year 10 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Promien Consultancy Services (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Quality Engineer </td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">01/02/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">10/13/2022</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">41000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">41000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">422400</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">541200</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Gonda, UP </td> </tr>
+      <tr>    <th>Work</th>    <td>Experienced in Agile development environment. Closely working in a scrum team to identify- test- requirements. Writing test scenarios, test cases and come up with own set of test data for different test scenarios/cases. Executing functional as well as regression- tests. Knowledge about SDLC, STLC, Testing Concepts and Methodologies. Performed Globalization testing. Participated in Review Test Case to validate customer requirement. Work on automation project with the team whenever needed. Detailed knowledge of QA testing methodologies, concepts, processes, and documentation. Retesting Experience , Functional Testing , Regression Testing. Prepared Traceability Matrix to map Business requirements and test case.
+Strong Understanding of SDLC and role of a QA Analyst. Strong Understanding of software testing techniques and tools. Basic knowledge on API Testing and tools like Postman. Experience of Jira & Bug tracking Systems. Good experience in creating, modifying, and enhancing manual Test cases.
+Documentation: QA Artifacts (Test Cases, Test Strategy)</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

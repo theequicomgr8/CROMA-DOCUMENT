@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>Xs-2361</td></tr> 
+        <tr><th>Name</th><td>Ms. Simranjeet</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9729932996</td> </tr>
+      <tr> <th>Email</th> <td>hanzrah.simranjeet@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>39 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Graduate Test Engineer</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">02/10/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">320000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">43900</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">43900</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">320000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">462000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">579480</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>A 1902, JM Florance, Tech Zone 4, Greater Noida</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-3258</td></tr> 
+        <tr><th>Name</th><td>Ms. Nitika Bishnoi</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">9518040898</td> </tr>
+      <tr> <th>Email</th> <td>nitikabishnoi112@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>36 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Quality Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">12/26/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">320100</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">42800</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">42800</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">320100</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">448800</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">564960</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>House No. 1032, Sector 17B, IFFCO Colony, Gurugram, Haryana - 122001</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

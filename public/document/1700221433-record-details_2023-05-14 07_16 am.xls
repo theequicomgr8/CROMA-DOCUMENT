@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2316</td></tr> 
+        <tr><th>Name</th><td>Mr. Hemant Kumar Singh</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">8826448747</td> </tr>
+      <tr> <th>Email</th> <td>hemantksingh21.02@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>36 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">04/13/2020</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">45000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">45000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">528000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">594000</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>H.No - 97, Block - F, Sector- 56, Noida</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

@@ -1,0 +1,29 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>XS-2951</td></tr> 
+        <tr><th>Name</th><td>Ms. Charmi Panda</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7550781060</td> </tr>
+      <tr> <th>Email</th> <td>charmipanda12@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>24 Year  months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Xapotech Systems (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Associate Software Engineer-Full Stack</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">05/09/2022</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left"></td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">330000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">33000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">33000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">330000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">330000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">435600</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Saradha Palace, Flat No. 403, Plot No 115,Near SS Plaza ,Udayigiri Vihar Patrapada, Bhubaneshwar, Odisha - 751019</td> </tr>
+      <tr>    <th>Work</th>    <td>NA</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>

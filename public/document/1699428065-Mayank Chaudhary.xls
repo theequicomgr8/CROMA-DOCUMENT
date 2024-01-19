@@ -1,0 +1,35 @@
+    <table border="1" cellspacing="10" cellpadding="2">
+    <thead>
+                 <tr><th>EMP ID</th> <td>PD-3458</td></tr> 
+        <tr><th>Name</th><td>Mr. Mayank Chaudhary</td></tr>
+        <tr><th>Mobile</th> <td style="text-align:left">7976993361</td> </tr>
+      <tr> <th>Email</th> <td>18ma97@gmail.com</td></tr>
+           <tr> <th>Exp Year</th>   <td>3 Year 1 months</td>  </tr>
+           <tr> <th>Company Name</th>   <td>Pradyumna Infotech (P) Ltd.</td>   </tr>
+           <tr> <th>Designation</th>  <td>Data Analyst</td>   </tr>
+         <tr>   <th>Date Of Join</th> <td style="text-align:left">06/04/2018</td>    </tr>
+          <tr>  <th>Date Of Eelieving </th>  <td style="text-align:left">02/01/2021</td>      </tr>
+        
+            <tr><th>Joining Pack</th>   <td style="text-align:left">216000</td>   </tr>
+         <tr> <th>Current Salary</th>    <td style="text-align:left">23000</td></tr>
+         <tr> <th>Net Pay</th>  <td style="text-align:left">23000</td> </tr>
+        
+         <tr> <th>CTC 1</th> <td style="text-align:left">216000</td>  </tr>
+         <tr> <th>CTC 2</th><td style="text-align:left">216000</td>   </tr>
+       <tr>   <th>CTC 3</th>  <td style="text-align:left">303600</td>  </tr>
+        
+        <tr>  <th>Department</th>  <td>Technology</td> </tr>
+         <tr> <th>Address</th>  <td>Rose Apartment, Sector 18-A, Sector 18, Dwarka</td> </tr>
+      <tr>    <th>Work</th>    <td>* Acquired data from API using HTTP requests & crawlers (Python)
+* Designed and maintained relational databases including MySQL, MongoDB using Spark (Python)
+* Implemented regression, classification & statistical modeling techniques to analyze the condition 
+  monitoring of hydraulic systems
+* Analyzed qualitative and quantitative business data using Google Analytics
+* Designed cohesive, simple data presentations using Power BI
+* Visualized data for 12 projects using 4 software libraries (Matplotlib, Seaborn)</td> </tr>
+        
+        
+          </thead>
+  
+   
+    </table>
